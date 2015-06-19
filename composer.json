@@ -4,17 +4,8 @@
   "type": "magento-module",
   "description": "Layout Compiler For Magento",
   "require": {
-    "php": ">=5.4.0",
-    "magento-hackathon/magento-composer-installer": "dev-master"
   },
   "require-dev": {
-    "magento/core": "1.9.1.0",
-    "ecomdev/ecomdev_phpunit": "dev-dev",
-    "mikey179/vfsStream": "*",
-    "ecomdev/mage-ci": "*",
-    "satooshi/php-coveralls": "dev-master",
-    "phpunit/php-code-coverage": "2.0.15",
-    "phpunit/phpcov": "*"
   },
   "repositories": [
     {
